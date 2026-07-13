@@ -16,16 +16,3 @@ Building high-performance systems for PaperMC, Velocity, Minestom, and custom Mi
 [![Valkey](https://img.shields.io/badge/Valkey-FF4444?style=for-the-badge)](https://valkey.io)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COMIC&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMIC&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-- Discord: **yourDiscordName**
-- Website: **yourWebsiteHere**
-- Email: **yourEmailHere**
