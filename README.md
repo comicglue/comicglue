@@ -1,4 +1,4 @@
-# 👋 Hey, I'm COMIC
+# 👋 Hey, I'm ComicGlue7204
 
 Minecraft Plugin Developer  
 Building high-performance systems for PaperMC, Velocity, Minestom, and custom Minecraft networks.
