@@ -13,7 +13,7 @@ Building high-performance systems for PaperMC, Velocity, Minestom, and custom Mi
 [![Minestom](https://img.shields.io/badge/Minestom-2E3440?style=for-the-badge)](https://minestom.net)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://valkey.io)
+[![Valkey](https://img.shields.io/badge/Valkey-FF4444?style=for-the-badge)](https://valkey.io)
 
 ---
 
