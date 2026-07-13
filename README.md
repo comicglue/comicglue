@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm COMIC
 
-<!--
-**comicglue/comicglue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minecraft Plugin Developer  
+Building high-performance systems for PaperMC, Velocity, and custom Minecraft networks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![PaperMC](https://img.shields.io/badge/PaperMC-1A1A1A?style=for-the-badge)](https://papermc.io)
+[![Velocity](https://img.shields.io/badge/Velocity-4B8BBE?style=for-the-badge)](https://velocitypowered.com)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COMIC&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMIC&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Discord: **yourDiscordName**
+- Website: **yourWebsiteHere**
+- Email: **yourEmailHere**
