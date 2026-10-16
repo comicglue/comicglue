@@ -1,6 +1,6 @@
 # 👋 Hey, I'm ComicGlue
 
-Minecraft Plugin Developer  
+Minecraft Developer  
 Building high-performance systems for PaperMC, Velocity, Minestom, and custom Minecraft networks.
 
 ---
